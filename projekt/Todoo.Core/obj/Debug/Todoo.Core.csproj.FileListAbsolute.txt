@@ -1,0 +1,6 @@
+C:\Users\Robson\Desktop\projekty visual studio\Todoo.Core\bin\Debug\Todoo.Core.dll
+C:\Users\Robson\Desktop\projekty visual studio\Todoo.Core\bin\Debug\Todoo.Core.pdb
+C:\Users\Robson\Desktop\projekty visual studio\Todoo.Core\obj\Debug\Todoo.Core.csproj.AssemblyReference.cache
+C:\Users\Robson\Desktop\projekty visual studio\Todoo.Core\obj\Debug\Todoo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Robson\Desktop\projekty visual studio\Todoo.Core\obj\Debug\Todoo.Core.dll
+C:\Users\Robson\Desktop\projekty visual studio\Todoo.Core\obj\Debug\Todoo.Core.pdb
